@@ -1,0 +1,21 @@
+p {
+        font-family: "Verdana", 'DejaVu Sans', 'sans-serif';
+    background-color: lightcoral;
+    }
+ .a{
+    color: black;
+ }
+    #b{
+    color: blue;
+    font-size: 36px;
+ }   
+ .c{
+    font-size: 24px;
+
+ }
+ #d{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+ }
